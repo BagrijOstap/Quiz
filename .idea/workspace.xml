@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d88c0f18-c8a2-4d12-8060-5f150d83f16a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" afterPath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -177,12 +165,12 @@
       <option name="presentableId" value="Default" />
       <updated>1574706363830</updated>
       <workItem from="1574706370600" duration="11434000" />
-      <workItem from="1574944429775" duration="13514000" />
+      <workItem from="1574944429775" duration="14206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24948000" />
+    <option name="totallyTimeSpent" value="25640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="1066" width="1865" height="1095" extended-state="6" />
